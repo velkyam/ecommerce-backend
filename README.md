@@ -22,11 +22,9 @@ To edit this project:
 
 3. NPM Install
 
-4. Npm run start:dev
+4. Make changes.
 
-7. Make changes.
-
-8. When you're ready to deploy, use the git add, git commit, git pull and git push commands to save and push your code to your GitHub repository.
+5. When you're ready to deploy, use the git add, git commit, git pull and git push commands to save and push your code to your GitHub repository.
 
 MIT License
 
