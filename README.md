@@ -7,7 +7,10 @@ The goal of this project was to create ecommerce backend for business to track i
 ## [Link to video walkthrough](https://youtu.be/pjcQHYueSeg)
 https://youtu.be/pjcQHYueSeg
 
+<img src="scren.png" alt="ecommerce_screenshot" width="500"/>
 
+## [Github Link](https://github.com/velkyam/ecommerce-backend)
+https://github.com/velkyam/ecommerce-backend
 
 To edit this project:
 
@@ -17,11 +20,7 @@ To edit this project:
 
 3. NPM Install
 
-4. Create .env file
-
-5. Source schema.sql
-
-6. Npm run seed
+4. Npm run start:dev
 
 7. Make changes.
 
