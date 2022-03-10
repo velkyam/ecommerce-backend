@@ -11,6 +11,8 @@ https://youtu.be/pjcQHYueSeg
 
 ## [Github Link](https://github.com/velkyam/ecommerce-backend)
 https://github.com/velkyam/ecommerce-backend
+## [Deployed App](https://ecommercedn.herokuapp.com/)
+https://ecommercedn.herokuapp.com/
 
 To edit this project:
 
